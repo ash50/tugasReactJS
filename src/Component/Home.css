@@ -1,0 +1,10 @@
+.doubleColor {
+  height: 100%;
+  background: linear-gradient(
+    to right,
+    white 0%,
+    white 50%,
+    #f7f3f2 50%,
+    #f7f3f2 100%
+  );
+}
